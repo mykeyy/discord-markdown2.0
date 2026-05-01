@@ -1,5 +1,5 @@
 ---
-name: discord-markdown
+name: discord-markdown2.0
 description: Master Discord's Markdown formatting system including text styling, headers, lists, code blocks, block quotes, spoiler tags, and syntax highlighting. Use when writing formatted Discord messages, server announcements, bot responses, embed descriptions, or any content intended for Discord chat.
 ---
 
