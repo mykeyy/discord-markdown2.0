@@ -1,0 +1,4 @@
+{
+  "content": "# Discord Markdown Showcase\n\n## Text Styling\n\n**This is bold text**\n*This is italic text*\n***This is bold and italic***\n__This is underlined text__\n__**This is underlined and bold**__\n~~This is strikethrough~~\n||This is a hidden spoiler||\n\n## Quotes\n\n> Single-line block quote\n\n>>> Multi-line block quote\nspans until the end\n\n## Links\n\n[Click here to visit Discord](https://discord.com)\n\n-# This is muted subtext at the bottom",
+  "attachments": []
+}

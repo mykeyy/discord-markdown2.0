@@ -1,0 +1,30 @@
+{
+  "content": "Server status update",
+  "embeds": [
+    {
+      "author": {
+        "name": "DevOps Team"
+      },
+      "title": "System Maintenance Scheduled",
+      "description": "We will be performing routine maintenance to improve **performance** and `stability`. ~~No downtime expected~~\n\n[More info](https://discord.com)",
+      "color": 15105570,
+      "fields": [
+        {
+          "name": "Expected Downtime",
+          "value": "2:00 AM - 4:00 AM UTC",
+          "inline": true
+        },
+        {
+          "name": "Affected Services",
+          "value": "API & Dashboard",
+          "inline": true
+        }
+      ],
+      "footer": {
+        "text": "Last updated"
+      },
+      "timestamp": "2026-05-02T12:00:00.000Z"
+    }
+  ],
+  "attachments": []
+}
